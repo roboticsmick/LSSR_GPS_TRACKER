@@ -7,14 +7,14 @@ This was designed and built to mount in the nose cone for my HPR L1 certificatio
 ![LSR_GPS_Tracker](https://user-images.githubusercontent.com/70121687/173563023-977a44c3-287d-41a4-a456-b5ffb58ea424.png)
 
 Parts list:
-Microcontroller – TEENSY 4.0
-RF transmitter – Ebyte LORA E22-900T22D (set to 915Mhz for Australian usage)
-GPS – Sparkfun UBLOX ZOE-M8Q GPS
-5V Buck Converter – MPM3610 5V 1.2A
-Buzzer – Keyes buzzer module
-Accelerometer – ADXL375 CJMCU-375
-Kill switch – LSR PCB micro kill switch
-Battery – 7.4V LIPO with JST connection
+* Microcontroller – TEENSY 4.0
+* RF transmitter – Ebyte LORA E22-900T22D (set to 915Mhz for Australian usage)
+* GPS – Sparkfun UBLOX ZOE-M8Q GPS
+* 5V Buck Converter – MPM3610 5V 1.2A
+* Buzzer – Keyes buzzer module
+* Accelerometer – ADXL375 CJMCU-375
+* Kill switch – LSR PCB micro kill switch
+* Battery – 7.4V LIPO with JST connection
 
 Version 2 will use a Raspberry Pi Pico RP2040 to bring the overall costs of the design down.
 
