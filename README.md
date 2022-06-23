@@ -16,8 +16,11 @@ Parts list:
 * Kill switch – LSR PCB micro kill switch
 * Battery – 7.4V LIPO with JST connection
 
-Version 2 will use a Raspberry Pi Pico RP2040 to bring the overall costs of the design down.
-
 PCB design was done using Fusion 360 electronics. Case design and animation were also done using Fusion 360.
 
 PCB boards were printed from JLCPCB.
+
+Instructions:
+Connect lipo power to board.
+Monitor base station. 
+When SIV is 3+, ready to launch.
