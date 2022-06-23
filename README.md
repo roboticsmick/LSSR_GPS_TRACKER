@@ -21,6 +21,6 @@ PCB design was done using Fusion 360 electronics. Case design and animation were
 PCB boards were printed from JLCPCB.
 
 Instructions:
-Connect lipo power to board.
-Monitor base station. 
-When SIV is 3+, ready to launch.
+1. Connect lipo power to board.
+2. Monitor base station. 
+3. When SIV is 3+, ready to launch.
