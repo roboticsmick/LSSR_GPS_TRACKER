@@ -1,4 +1,4 @@
-# LSR_GPS_TRACKER
+# LSSR_GPS_TRACKER
 
 A low cost GPS rocket tracker. Uses a Teensy 4.0, Sparkfun ZOE-M8Q, and Ebytes LORA module to transmit GPS coordinates and altitude data to my LSR GPS Rocket Tracking Base Station. Estimated range is 7km.
 
